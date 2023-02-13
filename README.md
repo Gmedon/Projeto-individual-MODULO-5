@@ -7,3 +7,11 @@ conseguir fazer uma interação do usuario com o prompt de comando.</p>
 <p>Agora que consigo essa interação, fiz um sistema no qual pega essas informações e joga dentro de um Array. Apos ter todos os dados da lista
 fiz uma ordenação do array com o comando sort().</p>
 <p>Finalizando assim meu projeto.</p>
+
+<hr/>
+#Observações<br/>
+<p>Para conseguir rodar este projeto, você precisara ter instalado NodeJs na sua maquina.</p>
+
+### Como rodar o projeto?
+
+`node index.js`
